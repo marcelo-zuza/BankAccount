@@ -1,0 +1,37 @@
+# Compiled binary files
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.lock.json
+*.lock
+project.lock.json
+project.fragment.lock.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages
